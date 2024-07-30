@@ -5,13 +5,13 @@
 
 <img align="right" alt="Coding" width="300" src="https://images.app.goo.gl/9Dd6fwXG92VtBCfv7">
 
-- 🔭 I’m currently working on **Restaurant Landing Page**
+- 🔭 I’m currently working on **Android App Developing**
 
-- 🌱 I’m currently learning **React native, Flutter, Swift and Angular**
+- 🌱 I’m currently learning **React native, Flutter and .Net**
 
 - 💬 Ask me about **Android, Java**
 
-- 📫 How to reach me **roguerevengerpcj2@gmail.com**
+- 📫 How to reach me **pavithrachamodj@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1R-HlzrFG2TOoV4JTi2SaftysSUwKw1ws/view?usp=sharing](https://drive.google.com/file/d/1R-HlzrFG2TOoV4JTi2SaftysSUwKw1ws/view?usp=sharing)
 
