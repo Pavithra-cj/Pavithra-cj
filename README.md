@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://images.app.goo.gl/9Dd6fwXG92VtBCfv7">
 
-- 🔭 I’m currently working on **Android App Developing**
+- 🔭 I’m currently working on **Android App Developments and .Net Beginner Projects**
 
 - 🌱 I’m currently learning **React native, Flutter and .Net**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pavithrachamodj@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1R-HlzrFG2TOoV4JTi2SaftysSUwKw1ws/view?usp=sharing](https://drive.google.com/file/d/1R-HlzrFG2TOoV4JTi2SaftysSUwKw1ws/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TY_l0oIHV-3MhqRQ_OioXpcZ98_0WAXc/view?usp=sharing](https://drive.google.com/file/d/1TY_l0oIHV-3MhqRQ_OioXpcZ98_0WAXc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
